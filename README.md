@@ -20,7 +20,7 @@ Badge | Link | Participar
 
 Badge | Link | Participar
 ----- | ---- | ----
-
+![Participantes](https://badges.gitter.im/beerjs/sjc.png) | [BeerJS/SJC](https://github.com/beerjs/sjc) | [Participar](https://gitter.im/beerjs/sjc)
 
 ### Créditos
 
