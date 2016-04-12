@@ -25,7 +25,7 @@ Badge | Link | Participar
 
 ### Créditos
 
-Esse repositório foi inspirado no repositório [Slack List Brazil]() do [Joselito](joselitojunior1)
+Esse repositório foi inspirado no repositório [Slack List Brazil](https://github.com/joselitojunior1/slack-list-brazil) do [Joselito](https://github.com/joselitojunior1)
 
 ### Contribua
 
