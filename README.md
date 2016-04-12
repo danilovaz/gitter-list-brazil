@@ -20,6 +20,7 @@ Badge | Link | Participar
 
 Badge | Link | Participar
 ----- | ---- | ----
+![Participantes](https://badges.gitter.im/transparenciasjc.png) | [Transparência SJC](https://github.com/transparenciasjc) | [Participar](https://gitter.im/transparenciasjc)
 ![Participantes](https://badges.gitter.im/beerjs/sjc.png) | [BeerJS/SJC](https://github.com/beerjs/sjc) | [Participar](https://gitter.im/beerjs/sjc)
 ![Participantes](https://badges.gitter.im/nodejs/node.png) | [Node.js Foundation](https://nodejs.org/foundation/) | [Participar](https://gitter.im/nodejs/node)
 
