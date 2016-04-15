@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/danilovaz/gitter-list-brazil.png?label=ready&title=Ready)](https://waffle.io/danilovaz/gitter-list-brazil)
 # Gitter List Brazil
 
 > Curadoria de Gitter's no Brasil para você participar.<br>
