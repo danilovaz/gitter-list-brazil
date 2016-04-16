@@ -23,6 +23,7 @@ Badge | Link | Participar
 ![Participantes](https://badges.gitter.im/transparenciasjc.png) | [Transparência SJC](https://github.com/transparenciasjc) | [Participar](https://gitter.im/transparenciasjc)
 ![Participantes](https://badges.gitter.im/beerjs/sjc.png) | [BeerJS/SJC](https://github.com/beerjs/sjc) | [Participar](https://gitter.im/beerjs/sjc)
 ![Participantes](https://badges.gitter.im/nodejs/nodejs-pt.png) | [Node.js-pt Foundation](https://nodejs.org/foundation/) | [Participar](https://gitter.im/nodejs/nodejs-pt)
+![Participantes](https://badges.gitter.im/InternetSemLimites/InternetSemLimites.png) | [Internet Sem Limites](https://github.com/InternetSemLimites) | [Participar](https://gitter.im/InternetSemLimites/InternetSemLimites)
 
 ### Créditos
 
