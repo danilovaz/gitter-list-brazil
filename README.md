@@ -9,6 +9,7 @@
 
 Badge | Link | Participar
 ----- | ---- | ----
+![Participantes](https://badges.gitter.im/iloveblogs/guest-post.svg) | [Guest Post](https://github.com/iloveblogs/guest-post) | [Participar](https://gitter.im/iloveblogs/guest-post)
 
 
 ### Back-end
